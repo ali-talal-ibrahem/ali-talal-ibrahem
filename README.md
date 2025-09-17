@@ -79,24 +79,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="35" alt="premierepro logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<h4 align="left">Contact :</h4>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=1&color=f20000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="instagram logo"  />
-  <a href="www.linkedin.com/in/ali-talal-ibrahem-947333370" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=1&color=0077ff&logoColor=white&labelColor=000&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=1&color=D12800&logoColor=white&labelColor=000&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="left">
