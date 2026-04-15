@@ -6,44 +6,86 @@
 
 ---
 
-### 🎓 About Me
-I am a **Software Engineering student (3rd Year)** dedicated to mastering Computer Science fundamentals. After 3 successful years in the creative industry, I've pivoted entirely to building robust systems and mastering software logic.
+### 🎓 Professional Profile
+I am a **Software Engineering student (3rd Year)** with a deep-rooted passion for building efficient software systems .
+After establishing a solid foundation through 3 years of professional experience in the creative industry , I have fully committed my career to Software Engineering , prioritizing technical excellence and architectural integrity .
+Currently , I am mastering the core of Computer Science and low-level logic , ensuring that every line of code I write is optimized and scalable .
+My transition is driven by a desire to solve complex problems and build high-performance digital products .
 
-- 🛣️ **Learning Path:** Following Dr. Mohammed Abu-Hadhoud’s Programming Roadmap.
-- 🎯 **Current Focus:** Data Structures, Algorithms, and OOP with C++.
-- 🏋️‍♂️ **Discipline:** 6 months of daily gym consistency = 6 months of cleaner code.
+- 🛣️ **Current Path :** Mastering C++ and System Logic through Dr. Mohammed Abu-Hadhoud’s Roadmap.
+- 🎯 **Academic Focus :** 3rd Year Software Engineering (BAIT).
+- 🚀 **Next Milestone :** Transitioning into the **.NET Ecosystem** and mastering **C#** for enterprise-level development.
 
 ---
 
 ### 🛠 Tech Stack
 
+**Programming & Frameworks:**
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+</p>
+
+**Web Development:**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+**Tools & Environment:**
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Assisted_Coding-0070f3?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats (Real-time Animation)
+### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliTalalIbrahem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliTalalIbrahem&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ali-talal-ibrahem&show_icons=true&bg_color=0d1117&title_color=0070f3&icon_color=0070f3&text_color=ffffff&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ali-talal-ibrahem&layout=compact&bg_color=0d1117&title_color=0070f3&text_color=ffffff&bar_color=0070f3&hide_border=true" height="175" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📈 Projects & Progress
-● 🏦 **Bank Management System:** Advanced C++ System with file-based persistence.
-● 🏧 **ATM System:** Logical implementation of banking operations.
-● 📚 **Ongoing:** Deep-diving into System Architecture.
+
+● 🏦 [**Bank Management System**](https://github.com/ali-talal-ibrahem/Bank-Management-System)
+> A robust C++ application featuring a secure login engine, bitwise-based permission structures, and file-based data persistence.
+
+● 🏧 [**ATM System**](https://github.com/ali-talal-ibrahem/ATM-System)
+> A functional C++ implementation of automated teller machine logic, focusing on transaction security and clean code architecture.
+
+● 🎮 [**Stone-Paper-Scissors Game**](https://github.com/ali-talal-ibrahem/Stone-Paper-Scissors)
+> A logic-based game implemented in C++, focusing on random functions, conditional structures, and user-interactive flow.
+
+● 🔢 [**Calculator Project**](https://github.com/ali-talal-ibrahem/Calculator)
+> A C++ based calculator handling various mathematical operations with a focus on input validation and clean logic.
+
+● 📚 **Ongoing Learning**
+> Deep-diving into **Data Structures** and **Algorithms** to build the necessary foundation for the transition to the **.NET Ecosystem**.
+
+---
 
 ---
 
 ### 📫 Get in Touch
-● 🔗 **LinkedIn:** [Ali Talal Ibrahem](https://www.linkedin.com/in/ali-talal-ibrahem)
-● 📧 **Email:** [aliibrahem760wrok@gmail.com](mailto:aliibrahem760wrok@gmail.com)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ali-talal-ibrahem" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aliibrahem760wrok@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=120&section=footer" />
