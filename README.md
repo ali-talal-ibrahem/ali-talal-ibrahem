@@ -1,60 +1,50 @@
-# 👋 Hello, I'm Ali Talal Ibrahem
-### 🚀 Aspiring Full-Stack Developer | 🎨 Graphic & UI/UX Designer
+# Hi, I'm Ali Talal Ibrahem 👋 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Continuous+Learner;Full-Stack+Enthusiast;Creative+Designer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;C%2B%2B+Enthusiast;CS+Fundamentals+Focused;Disciplined+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👤 About Me
-- 🎓 Currently following **Dr. Mohammed Abu Hadhoud’s Roadmap** to master Software Engineering.
-- 💡 I bridge the gap between **Design** and **Code** to create seamless user experiences.
-- 🎯 My goal is to become a **Professional Full-Stack Developer**.
-- 🖌️ Working as a Graphic Designer while building my coding empire.
+### 🎓 About Me
+I am a **Software Engineering student (3rd Year)** dedicated to mastering Computer Science fundamentals. After 3 successful years in the creative industry, I've pivoted entirely to building robust systems and mastering software logic.
+
+- 🛣️ **Learning Path:** Following Dr. Mohammed Abu-Hadhoud’s Programming Roadmap.
+- 🎯 **Current Focus:** Data Structures, Algorithms, and OOP with C++.
+- 🏋️‍♂️ **Discipline:** 6 months of daily gym consistency = 6 months of cleaner code.
 
 ---
 
 ### 🛠 Tech Stack
 
-#### 💻 Programming Languages & Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white" />
-</p>
-
-#### 🎨 Design & Creative Software
-<p align="left">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI/UX-Creative-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Real-time Animation)
 <p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ali-talal-ibrahem&show_icons=true&theme=vision-friendly-dark" alt="Ali's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-talal-ibrahem&theme=vision-friendly-dark" alt="Ali's Streak Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliTalalIbrahem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliTalalIbrahem&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
-<p align="left">
-  <a href="mailto:aliibrahem760work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/ali-talal-ibrahem">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+### 📈 Projects & Progress
+● 🏦 **Bank Management System:** Advanced C++ System with file-based persistence.
+● 🏧 **ATM System:** Logical implementation of banking operations.
+● 📚 **Ongoing:** Deep-diving into System Architecture.
+
+---
+
+### 📫 Get in Touch
+● 🔗 **LinkedIn:** [Ali Talal Ibrahem](https://www.linkedin.com/in/ali-talal-ibrahem)
+● 📧 **Email:** [aliibrahem760wrok@gmail.com](mailto:aliibrahem760wrok@gmail.com)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" />
 </p>
