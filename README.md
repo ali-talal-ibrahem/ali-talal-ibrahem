@@ -46,5 +46,5 @@ I am a **Software Engineering student (3rd Year)** dedicated to mastering Comput
 ● 📧 **Email:** [aliibrahem760wrok@gmail.com](mailto:aliibrahem760wrok@gmail.com)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=120&section=footer" />
 </p>
