@@ -53,27 +53,6 @@ My transition is driven by a desire to solve complex problems and build high-per
 
 ---
 
-### 📈 Projects & Progress
-
-● 🏦 [**Bank Management System**](https://github.com/ali-talal-ibrahem/Bank-Management-System)
-> A robust C++ application featuring a secure login engine, bitwise-based permission structures, and file-based data persistence.
-
-● 🏧 [**ATM System**](https://github.com/ali-talal-ibrahem/ATM-System)
-> A functional C++ implementation of automated teller machine logic, focusing on transaction security and clean code architecture.
-
-● 🎮 [**Stone-Paper-Scissors Game**](https://github.com/ali-talal-ibrahem/Stone-Paper-Scissors)
-> A logic-based game implemented in C++, focusing on random functions, conditional structures, and user-interactive flow.
-
-● 🔢 [**Calculator Project**](https://github.com/ali-talal-ibrahem/Calculator)
-> A C++ based calculator handling various mathematical operations with a focus on input validation and clean logic.
-
-● 📚 **Ongoing Learning**
-> Deep-diving into **Data Structures** and **Algorithms** to build the necessary foundation for the transition to the **.NET Ecosystem**.
-
----
-
----
-
 ### 📫 Get in Touch
 
 <p align="left">
